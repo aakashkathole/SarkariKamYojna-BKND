@@ -1,7 +1,7 @@
-package com.sarkaryKamYojana.Controller;
+package com.SarkariKamYojana.Controller;
 
-import com.sarkaryKamYojana.Entity.ScholarshipYojana;
-import com.sarkaryKamYojana.Service.ScholarshipYojanaService;
+import com.SarkariKamYojana.Entity.ScholarshipYojana;
+import com.SarkariKamYojana.Service.ScholarshipYojanaService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,4 +1,4 @@
-package com.sarkaryKamYojana;
+package com.SarkariKamYojana;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sarkaryKamYojana</groupId>
-	<artifactId>sarkaryKamYojana</artifactId>
+	<artifactId>SarkariKamYojana</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sarkaryKamYojana</name>
 	<description>sarkaryKamYojana</description>

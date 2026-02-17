@@ -1,8 +1,8 @@
-package com.sarkaryKamYojana.ServiceImpl;
+package com.SarkariKamYojana.ServiceImpl;
 
-import com.sarkaryKamYojana.Entity.Category;
-import com.sarkaryKamYojana.Repository.CategoryRepository;
-import com.sarkaryKamYojana.Service.CategoryService;
+import com.SarkariKamYojana.Entity.Category;
+import com.SarkariKamYojana.Repository.CategoryRepository;
+import com.SarkariKamYojana.Service.CategoryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

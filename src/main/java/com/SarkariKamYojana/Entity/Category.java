@@ -1,4 +1,4 @@
-package com.sarkaryKamYojana.Entity;
+package com.SarkariKamYojana.Entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;

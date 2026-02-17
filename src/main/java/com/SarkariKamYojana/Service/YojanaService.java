@@ -1,6 +1,6 @@
-package com.sarkaryKamYojana.Service;
+package com.SarkariKamYojana.Service;
 
-import com.sarkaryKamYojana.Entity.Yojana;
+import com.SarkariKamYojana.Entity.Yojana;
 
 import java.util.List;
 

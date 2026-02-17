@@ -1,8 +1,8 @@
-package com.sarkaryKamYojana.ServiceImpl;
+package com.SarkariKamYojana.ServiceImpl;
 
-import com.sarkaryKamYojana.Entity.ScholarshipYojana;
-import com.sarkaryKamYojana.Repository.ScholarshipYojanaRepository;
-import com.sarkaryKamYojana.Service.ScholarshipYojanaService;
+import com.SarkariKamYojana.Entity.ScholarshipYojana;
+import com.SarkariKamYojana.Repository.ScholarshipYojanaRepository;
+import com.SarkariKamYojana.Service.ScholarshipYojanaService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

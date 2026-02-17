@@ -1,4 +1,4 @@
-package com.sarkaryKamYojana.Entity;
+package com.SarkariKamYojana.Entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
@@ -6,20 +6,15 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Entity
-@Table(name = "mahila_yojana")
+@Table(name = "scholarships")
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class MahilaYojana {
+public class ScholarshipYojana {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-
-    private String title;
-
-    @Column(length = 3000)
-    private String description;
 
     @Lob
     @Column(columnDefinition = "LONGBLOB")
@@ -28,7 +23,8 @@ public class MahilaYojana {
     private String link1;
     private String link2;
     private String link3;
-    private  String info1;
+
+    private String info1;
     private String info2;
     private String info3;
 
@@ -36,5 +32,4 @@ public class MahilaYojana {
     @ManyToOne
     @JoinColumn(name = "yojana_id")
     private Yojana yojana;
-
 }

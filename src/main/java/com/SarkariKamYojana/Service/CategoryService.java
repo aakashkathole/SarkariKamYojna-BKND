@@ -1,6 +1,6 @@
-package com.sarkaryKamYojana.Service;
+package com.SarkariKamYojana.Service;
 
-import com.sarkaryKamYojana.Entity.Category;
+import com.SarkariKamYojana.Entity.Category;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

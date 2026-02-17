@@ -1,7 +1,7 @@
-package com.sarkaryKamYojana.Controller;
+package com.SarkariKamYojana.Controller;
 
-import com.sarkaryKamYojana.Entity.Yojana;
-import com.sarkaryKamYojana.Service.YojanaService;
+import com.SarkariKamYojana.Entity.Yojana;
+import com.SarkariKamYojana.Service.YojanaService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

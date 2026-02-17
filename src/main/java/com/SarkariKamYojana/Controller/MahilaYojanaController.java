@@ -1,9 +1,8 @@
-package com.sarkaryKamYojana.Controller;
+package com.SarkariKamYojana.Controller;
 
-import com.sarkaryKamYojana.Entity.MahilaYojana;
-import com.sarkaryKamYojana.Service.MahilaYojanaService;
+import com.SarkariKamYojana.Entity.MahilaYojana;
+import com.SarkariKamYojana.Service.MahilaYojanaService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

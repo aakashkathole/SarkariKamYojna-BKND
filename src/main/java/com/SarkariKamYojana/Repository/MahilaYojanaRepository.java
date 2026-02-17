@@ -1,6 +1,6 @@
-package com.sarkaryKamYojana.Repository;
+package com.SarkariKamYojana.Repository;
 
-import com.sarkaryKamYojana.Entity.MahilaYojana;
+import com.SarkariKamYojana.Entity.MahilaYojana;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface MahilaYojanaRepository extends JpaRepository<MahilaYojana, Long> {

@@ -1,10 +1,10 @@
-package com.sarkaryKamYojana.ServiceImpl;
+package com.SarkariKamYojana.ServiceImpl;
 
-import com.sarkaryKamYojana.Entity.Yojana;
-import com.sarkaryKamYojana.Entity.Category;
-import com.sarkaryKamYojana.Repository.YojanaRepository;
-import com.sarkaryKamYojana.Repository.CategoryRepository;
-import com.sarkaryKamYojana.Service.YojanaService;
+import com.SarkariKamYojana.Entity.Yojana;
+import com.SarkariKamYojana.Entity.Category;
+import com.SarkariKamYojana.Repository.YojanaRepository;
+import com.SarkariKamYojana.Repository.CategoryRepository;
+import com.SarkariKamYojana.Service.YojanaService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
